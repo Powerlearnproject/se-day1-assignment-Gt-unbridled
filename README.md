@@ -7,6 +7,7 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry.
 
 Software engineering applies engineering principles to design, develop, test, and maintain software systems. It ensures quality, reliability, efficiency, safety, and scalability. Crucial in the tech industry, software engineering drives innovation, competitiveness, and customer satisfaction, while reducing errors, costs, and downtime. It's essential for successful software development.
+
 Identify and describe at least three key milestones in the evolution of software engineering.
 Software engineering evolved through key milestones: NATO conference (1968), Waterfall/Structured Programming (1970s), Agile/OOP (1980s), and modern advancements like DevOps, Cloud, AI, and ML, transforming development practices and improving quality.
 
